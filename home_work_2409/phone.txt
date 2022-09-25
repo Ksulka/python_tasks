@@ -1,0 +1,3 @@
+Oks, student, 88888;
+Vova, pupil, 47859;
+Irina, mom, 462521;
